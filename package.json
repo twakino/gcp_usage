@@ -1,0 +1,11 @@
+{
+  "name": "sample-pubsub",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.18.0",
+    "@google-cloud/bigquery": "^4.7.0",
+    "requests": "^0.3.0",
+    "dateformat": "^3.0.3",
+    "slack": "^11.0.2"
+  }
+}
