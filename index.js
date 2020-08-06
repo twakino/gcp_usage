@@ -4,7 +4,7 @@
  * @param {!Object} event Event payload.
  * @param {!Object} context Metadata for the event.
  */
-const BOT_ACCESS_TOKEN = 'xoxb-235378383714-1087558974897-x0FtiNIwyy8kquEcJT4hVGVt';
+const BOT_ACCESS_TOKEN = 'xoxb-XXXXXXXXXXXXXXXXxxx';
 const CHANNEL = '#bill_gcp';
 const request = require('request');
 const slack = require('slack');
